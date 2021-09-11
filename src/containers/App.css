@@ -1,0 +1,18 @@
+body {
+  user-select: none;
+}
+
+h1 {
+  font-family: 'get';
+  font-weight: 400;
+  font-size: 200px;
+  color: #88ff59;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000
+}
+
+@font-face {
+  font-family: "get";
+  font-style: normal;
+  font-weight: normal;
+  src: url("get_schwifty.ttf") format("truetype");
+}
