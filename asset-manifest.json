@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/rick-morty-api/static/css/main.c116055b.chunk.css",
+    "main.js": "/rick-morty-api/static/js/main.06580606.chunk.js",
+    "main.js.map": "/rick-morty-api/static/js/main.06580606.chunk.js.map",
+    "runtime-main.js": "/rick-morty-api/static/js/runtime-main.06b3a519.js",
+    "runtime-main.js.map": "/rick-morty-api/static/js/runtime-main.06b3a519.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/rick-morty-api/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.959b5468.chunk.js": "/rick-morty-api/static/js/2.959b5468.chunk.js",
+    "static/js/2.959b5468.chunk.js.map": "/rick-morty-api/static/js/2.959b5468.chunk.js.map",
+    "index.html": "/rick-morty-api/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/rick-morty-api/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.c116055b.chunk.css.map": "/rick-morty-api/static/css/main.c116055b.chunk.css.map",
+    "static/js/2.959b5468.chunk.js.LICENSE.txt": "/rick-morty-api/static/js/2.959b5468.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/rick-morty-api/static/media/get_schwifty.c3d1dfc6.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06b3a519.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.959b5468.chunk.js",
+    "static/css/main.c116055b.chunk.css",
+    "static/js/main.06580606.chunk.js"
+  ]
+}
